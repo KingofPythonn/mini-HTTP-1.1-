@@ -1,0 +1,642 @@
+GET index.html
+GET index.html
+GET 
+GET favicon.ico
+GET 
+GET 
+GET 
+GET index.html
+GET 
+GET 
+GET index.html
+GET index.html
+POST Data: test data
+GET index.html
+GET data.text
+GET data.txt
+GET 
+GET favicon.ico
+GET index.html
+GET index.html
+GET docs
+GET data.txt
+POST Data: test1  data
+POST Data: test data
+GET 
+GET 
+GET 
+GET index.html
+GET index.html
+GET index.html
+POST Data: test1  data sina 
+Request:
+404 Not Found
+Response:
+File Not Found
+
+Request:
+200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+Request:
+200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+POST Data: t si 
+
+Request:
+404 Not Found
+Response:
+File Not Found
+
+Request:
+404 Not Found
+Response:
+File Not Found
+
+Request:
+200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+POST Data: t si 
+
+Request:
+200 OK
+Response:
+t si 
+t si 
+t sddcdi 
+
+
+Request:
+200 OK
+Response:
+t si 
+t si 
+t sddcdi 
+
+
+Request:
+200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+Request:
+201 Created
+Response:
+Resource Created
+
+Request:
+201 Created
+Response:
+POST Data: t sia 
+
+[2025-01-15 19:13:34] Request:
+POST /fie.txt Body: t sia 
+Response:
+201 Created
+[2025-01-15 19:13:40] Request:
+GET /index.html
+Response:
+200 OK
+
+[2025-01-15 19:17:30] Request:
+GET /inde.html
+Response:
+404 Not Found
+
+[2025-01-15 19:26:15] Request:
+GET /inde.html
+Response:
+404 Not Found
+
+[2025-01-15 19:26:21] Request:
+GET /index.html
+Response:
+200 OK
+
+[2025-01-15 19:26:35] Request:
+POST /fie.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:26:51] Request:
+POST /fie.txt Body: t sia 
+Response:
+201 Created
+
+Request:
+Response Status: 200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:29:58] Request:
+Response Status: 200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+[2025-01-15 19:30:08] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:35:42] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:35:42] Request:
+POST /fie.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:36:05] Request:
+Response Status: 200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+[2025-01-15 19:36:05] Request:
+GET /index.html
+Response:
+200 OK
+
+[2025-01-15 19:37:43] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:37:43] Request:
+POST /fie.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:37:49] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:37:49] Request:
+POST /fie.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:51:40] Request:
+Response Status: 200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+[2025-01-15 19:51:40] Request:
+GET /index.html
+Response:
+200 OK
+
+[2025-01-15 19:51:50] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:51:50] Request:
+POST /fie.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:52:31] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:52:31] Request:
+POST /fie.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:52:31] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:52:31] Request:
+POST /fie.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:52:31] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:52:31] Request:
+POST /fie.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:53:45] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:53:45] Request:
+POST /fe.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:53:45] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:53:45] Request:
+POST /fe.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:53:45] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:53:45] Request:
+POST /fe.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:54:30] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:54:30] Request:
+POST /fe.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:54:30] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:54:30] Request:
+POST /fe.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:54:30] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:54:30] Request:
+POST /fe.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:54:30] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:54:30] Request:
+POST /fe.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:54:30] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:54:30] Request:
+POST /fe.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:54:30] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:54:30] Request:
+POST /fe.txt Body: t sia 
+Response:
+201 Created
+
+[2025-01-15 19:57:12] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 19:57:12] Request:
+POST /resource Body: 
+Response:
+201 Created
+
+[2025-01-15 20:17:07] Request:
+Response Status: 200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+[2025-01-15 20:17:07] Request:
+GET /index.html
+Response:
+200 OK
+
+[2025-01-15 20:17:17] Request:
+Response Status: 200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+[2025-01-15 20:17:17] Request:
+GET /index.html
+Response:
+200 OK
+
+[2025-01-15 20:17:50] Request:
+Response Status: 200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+[2025-01-15 20:17:50] Request:
+GET /index.html
+Response:
+200 OK
+
+[2025-01-15 20:18:08] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 20:18:08] Request:
+POST /fie.html Body: t si 
+Response:
+201 Created
+
+[2025-01-15 20:18:28] Request:
+Response Status: 201 Created
+Response:
+Resource Created
+
+[2025-01-15 20:18:28] Request:
+POST /fie.html Body: t si 
+Response:
+201 Created
+
+[2025-01-15 20:28:38] Request:
+Response Status: 200 OK
+Response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sina</title>
+</head>
+<body>
+    <html><body><h1>Hello, World!</h1></body></html>
+
+    
+</body>
+</html>
+
+[2025-01-15 20:28:38] Request:
+GET /index.html
+Response:
+200 OK
+
